@@ -1,5 +1,5 @@
 # Contact me at timothyy208@gmail.com for any questions
-
+# https://apps.apple.com/us/app/off-shade/id1475839711?app=itunes&ign-mpt=uo%3D4
 # Privacy Policy
 Privacy Policy
 Timothy Yang built the OffShade app as a Free app. This SERVICE is provided by Timothy Yang at no cost and is intended for use as is.
@@ -58,3 +58,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 Contact Us
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at timothyy208@gmail.com.
+
+# Known Bugs
+1. App may not display properly on certain devices
